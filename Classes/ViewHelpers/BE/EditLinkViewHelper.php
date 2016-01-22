@@ -1,5 +1,5 @@
 <?php
-namespace Documentation\Examples\ViewHelpers\Be;
+namespace MASK\Mask\ViewHelpers\Be;
 /**
  * This file is part of the TYPO3 CMS project.
  *
